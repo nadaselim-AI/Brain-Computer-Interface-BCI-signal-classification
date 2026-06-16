@@ -32,7 +32,7 @@ EEG recordings from multiple participants performing motor imagery tasks.
 pip install mne numpy scipy scikit-learn matplotlib
  
 # Open the notebook
-jupyter notebook BCI_PROJECT_LOAD_DATA.ipynb
+Google Colab BCI_PROJECT_LOAD_DATA.ipynb
 ```
  
 ## Key Concepts Used
