@@ -25,6 +25,7 @@ Classifying EEG brain signals to detect imagined hand movements (left vs right) 
 ## Dataset
 BCI Competition IV — Dataset 1  
 EEG recordings from multiple participants performing motor imagery tasks.
+https://www.bbci.de/competition/iv/
  
 ## How to Run
 ```bash
