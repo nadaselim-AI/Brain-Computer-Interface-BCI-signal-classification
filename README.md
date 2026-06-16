@@ -42,4 +42,4 @@ jupyter notebook BCI_PROJECT_LOAD_DATA.ipynb
 - Cross-participant evaluation
 ## Author
 Nada Selim — Computer Vision & ML Engineer  
-[LinkedIn](https://www.linkedin.com/in/nada-selim-phd-student-aO) | [GitHub](https://github.com/nadaselim-AI)
+[LinkedIn](https://www.linkedin.com/in/nada-selim-phd-student-aO53b5223) | [GitHub](https://github.com/nadaselim-AI)
